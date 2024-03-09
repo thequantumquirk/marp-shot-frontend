@@ -72,9 +72,9 @@ export default function ProductGen() {
   };
   return (
     <div className="h-screen p-24">
-      <h1 className="text-4xl font-bold">Util Gen</h1>
+      <h1 className="text-4xl font-bold">Product Gen</h1>
       <p className="text-xl font-medium">
-        Text utilities you need powered by Longshot
+        For all your product needs
       </p>
       {isGettingBlogInput && (
         <div className="max-w-3xl border-sky-100 border p-12 rounded-lg flex flex-col justify-center items-center my-4 mx-auto">
